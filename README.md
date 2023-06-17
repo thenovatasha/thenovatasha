@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thenovatasha
-- 👀 I’m interested in learning Web Developement
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on any project relevant to HTML CSS AND JS
-- 📫 How to reach me ---- email me: thenovatasha@gmail.com
+- 👀 currently learning Data Science at The Unviersity of Melbourne
+- 💞️ looking to advance my collaborative and programming skills
+- 📫 email me: thenovatasha@gmail.com
 
 <!---
 thenovatasha/thenovatasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
