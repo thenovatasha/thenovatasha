@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thenovatasha
-- 👀 currently learning Data Science at The Unviersity of Melbourne
-- 💞️ looking to advance my collaborative and programming skills
+- 👀 currently a Computing and Software Systems major at The Unviersity of Melbourne
 - 📫 email me: thenovatasha@gmail.com
 
 <!---
